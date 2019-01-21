@@ -1,0 +1,3516 @@
+{
+    "contentlist": [
+        {
+        "market": "sh",
+        "code": "000999",
+        "name": "两岸三地",
+        "pinyin": "lasd"
+      },
+      {
+        "market": "sh",
+        "code": "000998",
+        "name": "中证TMT",
+        "pinyin": "zztmt"
+      },
+      {
+        "market": "sh",
+        "code": "000997",
+        "name": "大消费",
+        "pinyin": "dxf"
+      },
+      {
+        "market": "sh",
+        "code": "000996",
+        "name": "领先行业",
+        "pinyin": "lxxy"
+      },
+      {
+        "market": "sh",
+        "code": "000994",
+        "name": "全指电信",
+        "pinyin": "qzdx"
+      },
+      {
+        "market": "sh",
+        "code": "000993",
+        "name": "全指信息",
+        "pinyin": "qzxx"
+      },
+      {
+        "market": "sh",
+        "code": "000992",
+        "name": "全指金融",
+        "pinyin": "qzjr"
+      },
+      {
+        "market": "sh",
+        "code": "000991",
+        "name": "全指医药",
+        "pinyin": "qzyy"
+      },
+      {
+        "market": "sh",
+        "code": "000990",
+        "name": "全指消费",
+        "pinyin": "qzxf"
+      },
+      {
+        "market": "sh",
+        "code": "000989",
+        "name": "全指可选",
+        "pinyin": "qzkx"
+      },
+      {
+        "market": "sh",
+        "code": "000987",
+        "name": "全指材料",
+        "pinyin": "qzcl"
+      },
+      {
+        "market": "sh",
+        "code": "000986",
+        "name": "全指能源",
+        "pinyin": "qzny"
+      },
+      {
+        "market": "sh",
+        "code": "000984",
+        "name": "300等权",
+        "pinyin": "300dq"
+      },
+      {
+        "market": "sh",
+        "code": "000983",
+        "name": "智能资产",
+        "pinyin": "znzc"
+      },
+      {
+        "market": "sh",
+        "code": "000982",
+        "name": "500等权",
+        "pinyin": "500dq"
+      },
+      {
+        "market": "sh",
+        "code": "000979",
+        "name": "大宗商品",
+        "pinyin": "dzsp"
+      },
+      {
+        "market": "sh",
+        "code": "000978",
+        "name": "医药100",
+        "pinyin": "yy100"
+      },
+      {
+        "market": "sh",
+        "code": "000977",
+        "name": "内地低碳",
+        "pinyin": "nddt"
+      },
+      {
+        "market": "sh",
+        "code": "000975",
+        "name": "钱江30",
+        "pinyin": "qj30"
+      },
+      {
+        "market": "sh",
+        "code": "000974",
+        "name": "800金融",
+        "pinyin": "800jr"
+      },
+      {
+        "market": "sh",
+        "code": "000973",
+        "name": "技术领先",
+        "pinyin": "jslx"
+      },
+      {
+        "market": "sh",
+        "code": "000971",
+        "name": "等权90",
+        "pinyin": "dq90"
+      },
+      {
+        "market": "sh",
+        "code": "000969",
+        "name": "300非周",
+        "pinyin": "300fz"
+      },
+      {
+        "market": "sh",
+        "code": "000966",
+        "name": "基本400",
+        "pinyin": "jb400"
+      },
+      {
+        "market": "sh",
+        "code": "000964",
+        "name": "中证新兴",
+        "pinyin": "zzxx"
+      },
+      {
+        "market": "sh",
+        "code": "000963",
+        "name": "中证下游",
+        "pinyin": "zzxy"
+      },
+      {
+        "market": "sh",
+        "code": "000961",
+        "name": "中证上游",
+        "pinyin": "zzsy"
+      },
+      {
+        "market": "sh",
+        "code": "000959",
+        "name": "银河99",
+        "pinyin": "yh99"
+      },
+      {
+        "market": "sh",
+        "code": "000958",
+        "name": "创业成长",
+        "pinyin": "cycc"
+      },
+      {
+        "market": "sh",
+        "code": "000957",
+        "name": "300运输",
+        "pinyin": "300ys"
+      },
+      {
+        "market": "sh",
+        "code": "000956",
+        "name": "国企200",
+        "pinyin": "gq200"
+      },
+      {
+        "market": "sh",
+        "code": "000954",
+        "name": "地企100",
+        "pinyin": "dq100"
+      },
+      {
+        "market": "sh",
+        "code": "000952",
+        "name": "300地产",
+        "pinyin": "300dc"
+      },
+      {
+        "market": "sh",
+        "code": "000951",
+        "name": "300银行",
+        "pinyin": "300yx"
+      },
+      {
+        "market": "sh",
+        "code": "000950",
+        "name": "300基建",
+        "pinyin": "300jj"
+      },
+      {
+        "market": "sh",
+        "code": "000947",
+        "name": "内地银行",
+        "pinyin": "ndyx"
+      },
+      {
+        "market": "sh",
+        "code": "000946",
+        "name": "内地金融",
+        "pinyin": "ndjr"
+      },
+      {
+        "market": "sh",
+        "code": "000945",
+        "name": "内地运输",
+        "pinyin": "ndys"
+      },
+      {
+        "market": "sh",
+        "code": "000944",
+        "name": "内地资源",
+        "pinyin": "ndzy"
+      },
+      {
+        "market": "sh",
+        "code": "000943",
+        "name": "内地基建",
+        "pinyin": "ndjj"
+      },
+      {
+        "market": "sh",
+        "code": "000942",
+        "name": "内地消费",
+        "pinyin": "ndxf"
+      },
+      {
+        "market": "sh",
+        "code": "000941",
+        "name": "新能源",
+        "pinyin": "xny"
+      },
+      {
+        "market": "sh",
+        "code": "000940",
+        "name": "财富大盘",
+        "pinyin": "cfdp"
+      },
+      {
+        "market": "sh",
+        "code": "000939",
+        "name": "民企200",
+        "pinyin": "mq200"
+      },
+      {
+        "market": "sh",
+        "code": "000935",
+        "name": "中证信息",
+        "pinyin": "zzxx"
+      },
+      {
+        "market": "sh",
+        "code": "000934",
+        "name": "中证金融",
+        "pinyin": "zzjr"
+      },
+      {
+        "market": "sh",
+        "code": "000933",
+        "name": "中证医药",
+        "pinyin": "zzyy"
+      },
+      {
+        "market": "sh",
+        "code": "000932",
+        "name": "中证消费",
+        "pinyin": "zzxf"
+      },
+      {
+        "market": "sh",
+        "code": "000931",
+        "name": "中证可选",
+        "pinyin": "zzkx"
+      },
+      {
+        "market": "sh",
+        "code": "000928",
+        "name": "中证能源",
+        "pinyin": "zzny"
+      },
+      {
+        "market": "sh",
+        "code": "000925",
+        "name": "基本面50",
+        "pinyin": "jbm50"
+      },
+      {
+        "market": "sh",
+        "code": "000922",
+        "name": "中证红利",
+        "pinyin": "zzhl"
+      },
+      {
+        "market": "sh",
+        "code": "000919",
+        "name": "300价值",
+        "pinyin": "300jz"
+      },
+      {
+        "market": "sh",
+        "code": "000918",
+        "name": "300成长",
+        "pinyin": "300cc"
+      },
+      {
+        "market": "sh",
+        "code": "000917",
+        "name": "300公用",
+        "pinyin": "300gy"
+      },
+      {
+        "market": "sh",
+        "code": "000914",
+        "name": "300金融",
+        "pinyin": "300jr"
+      },
+      {
+        "market": "sh",
+        "code": "000913",
+        "name": "300医药",
+        "pinyin": "300yy"
+      },
+      {
+        "market": "sh",
+        "code": "000912",
+        "name": "300消费",
+        "pinyin": "300xf"
+      },
+      {
+        "market": "sh",
+        "code": "000911",
+        "name": "300可选",
+        "pinyin": "300kx"
+      },
+      {
+        "market": "sh",
+        "code": "000910",
+        "name": "300工业",
+        "pinyin": "300gy"
+      },
+      {
+        "market": "sh",
+        "code": "000909",
+        "name": "300材料",
+        "pinyin": "300cl"
+      },
+      {
+        "market": "sh",
+        "code": "000908",
+        "name": "300能源",
+        "pinyin": "300ny"
+      },
+      {
+        "market": "sh",
+        "code": "000907",
+        "name": "中证700",
+        "pinyin": "zz700"
+      },
+      {
+        "market": "sh",
+        "code": "000906",
+        "name": "中证800",
+        "pinyin": "zz800"
+      },
+      {
+        "market": "sh",
+        "code": "000905",
+        "name": "中证500",
+        "pinyin": "zz500"
+      },
+      {
+        "market": "sh",
+        "code": "000904",
+        "name": "中证200",
+        "pinyin": "zz200"
+      },
+      {
+        "market": "sh",
+        "code": "000903",
+        "name": "中证100",
+        "pinyin": "zz100"
+      },
+      {
+        "market": "sh",
+        "code": "000901",
+        "name": "小康指数",
+        "pinyin": "xkzs"
+      },
+      {
+        "market": "sh",
+        "code": "000869",
+        "name": "HK银行",
+        "pinyin": "hkyx"
+      },
+      {
+        "market": "sh",
+        "code": "000867",
+        "name": "港中小企",
+        "pinyin": "gzxq"
+      },
+      {
+        "market": "sh",
+        "code": "000865",
+        "name": "上海国企",
+        "pinyin": "shgq"
+      },
+      {
+        "market": "sh",
+        "code": "000863",
+        "name": "CS精准医",
+        "pinyin": "csjzy"
+      },
+      {
+        "market": "sh",
+        "code": "000858",
+        "name": "500信息",
+        "pinyin": "500xx"
+      },
+      {
+        "market": "sh",
+        "code": "000857",
+        "name": "500医药",
+        "pinyin": "500yy"
+      },
+      {
+        "market": "sh",
+        "code": "000856",
+        "name": "500工业",
+        "pinyin": "500gy"
+      },
+      {
+        "market": "sh",
+        "code": "000855",
+        "name": "央视500",
+        "pinyin": "ys500"
+      },
+      {
+        "market": "sh",
+        "code": "000854",
+        "name": "500原料",
+        "pinyin": "500yl"
+      },
+      {
+        "market": "sh",
+        "code": "000853",
+        "name": "CSSW丝路",
+        "pinyin": "csswsl"
+      },
+      {
+        "market": "sh",
+        "code": "000852",
+        "name": "中证1000",
+        "pinyin": "zz1000"
+      },
+      {
+        "market": "sh",
+        "code": "000851",
+        "name": "百发100",
+        "pinyin": "bf100"
+      },
+      {
+        "market": "sh",
+        "code": "000850",
+        "name": "300有色",
+        "pinyin": "300ys"
+      },
+      {
+        "market": "sh",
+        "code": "000849",
+        "name": "300非银",
+        "pinyin": "300fy"
+      },
+      {
+        "market": "sh",
+        "code": "000847",
+        "name": "腾讯济安",
+        "pinyin": "txja"
+      },
+      {
+        "market": "sh",
+        "code": "000846",
+        "name": "ESG100",
+        "pinyin": "esg100"
+      },
+      {
+        "market": "sh",
+        "code": "000844",
+        "name": "300稳定",
+        "pinyin": "300wd"
+      },
+      {
+        "market": "sh",
+        "code": "000843",
+        "name": "300动态",
+        "pinyin": "300dt"
+      },
+      {
+        "market": "sh",
+        "code": "000842",
+        "name": "800等权",
+        "pinyin": "800dq"
+      },
+      {
+        "market": "sh",
+        "code": "000841",
+        "name": "800医药",
+        "pinyin": "800yy"
+      },
+      {
+        "market": "sh",
+        "code": "000840",
+        "name": "浙江民企",
+        "pinyin": "zjmq"
+      },
+      {
+        "market": "sh",
+        "code": "000833",
+        "name": "中高企债",
+        "pinyin": "zgqz"
+      },
+      {
+        "market": "sh",
+        "code": "000832",
+        "name": "中证转债",
+        "pinyin": "zzzz"
+      },
+      {
+        "market": "sh",
+        "code": "000828",
+        "name": "300高贝",
+        "pinyin": "300gb"
+      },
+      {
+        "market": "sh",
+        "code": "000827",
+        "name": "中证环保",
+        "pinyin": "zzhb"
+      },
+      {
+        "market": "sh",
+        "code": "000824",
+        "name": "国企红利",
+        "pinyin": "gqhl"
+      },
+      {
+        "market": "sh",
+        "code": "000823",
+        "name": "800有色",
+        "pinyin": "800ys"
+      },
+      {
+        "market": "sh",
+        "code": "000821",
+        "name": "300红利",
+        "pinyin": "300hl"
+      },
+      {
+        "market": "sh",
+        "code": "000819",
+        "name": "有色金属",
+        "pinyin": "ysjs"
+      },
+      {
+        "market": "sh",
+        "code": "000817",
+        "name": "兴证海峡",
+        "pinyin": "xzhx"
+      },
+      {
+        "market": "sh",
+        "code": "000816",
+        "name": "细分地产",
+        "pinyin": "xfdc"
+      },
+      {
+        "market": "sh",
+        "code": "000814",
+        "name": "细分医药",
+        "pinyin": "xfyy"
+      },
+       {
+        "market": "sh",
+        "code": "000808",
+        "name": "医药生物",
+        "pinyin": "yysw"
+      },
+      {
+        "market": "sh",
+        "code": "000807",
+        "name": "食品饮料",
+        "pinyin": "spyl"
+      },
+      {
+        "market": "sh",
+        "code": "000806",
+        "name": "消费服务",
+        "pinyin": "xffw"
+      },
+      {
+        "market": "sh",
+        "code": "000805",
+        "name": "A股资源",
+        "pinyin": "agzy"
+      },
+      {
+        "market": "sh",
+        "code": "000804",
+        "name": "500波动",
+        "pinyin": "500bd"
+      },
+      {
+        "market": "sh",
+        "code": "000802",
+        "name": "500沪市",
+        "pinyin": "500hs"
+      },
+      {
+        "market": "sh",
+        "code": "000300",
+        "name": "沪深300",
+        "pinyin": "hs300"
+      },
+      {
+        "market": "sh",
+        "code": "000162",
+        "name": "沪互联+",
+        "pinyin": "hhl+"
+      },
+      {
+        "market": "sh",
+        "code": "000161",
+        "name": "沪中国造",
+        "pinyin": "hzgz"
+      },
+      {
+        "market": "sh",
+        "code": "000160",
+        "name": "沪新丝路",
+        "pinyin": "hxsl"
+      },
+      {
+        "market": "sh",
+        "code": "000159",
+        "name": "沪股通",
+        "pinyin": "hgt"
+      },
+      {
+        "market": "sh",
+        "code": "000158",
+        "name": "上证环保",
+        "pinyin": "szhb"
+      },
+      {
+        "market": "sh",
+        "code": "000155",
+        "name": "市值百强",
+        "pinyin": "szbq"
+      },
+      {
+        "market": "sh",
+        "code": "000153",
+        "name": "上民红利",
+        "pinyin": "smhl"
+      },
+      {
+        "market": "sh",
+        "code": "000152",
+        "name": "上央红利",
+        "pinyin": "syhl"
+      },
+      {
+        "market": "sh",
+        "code": "000151",
+        "name": "上国红利",
+        "pinyin": "sghl"
+      },
+      {
+        "market": "sh",
+        "code": "000150",
+        "name": "380红利",
+        "pinyin": "380hl"
+      },
+      {
+        "market": "sh",
+        "code": "000149",
+        "name": "180红利",
+        "pinyin": "180hl"
+      },
+      {
+        "market": "sh",
+        "code": "000148",
+        "name": "消费领先",
+        "pinyin": "xflx"
+      },
+      {
+        "market": "sh",
+        "code": "000147",
+        "name": "优势消费",
+        "pinyin": "ysxf"
+      },
+      {
+        "market": "sh",
+        "code": "000146",
+        "name": "优势制造",
+        "pinyin": "yszz"
+      },
+      {
+        "market": "sh",
+        "code": "000145",
+        "name": "优势资源",
+        "pinyin": "yszy"
+      },
+      {
+        "market": "sh",
+        "code": "000142",
+        "name": "380稳定",
+        "pinyin": "380wd"
+      },
+      {
+        "market": "sh",
+        "code": "000141",
+        "name": "380动态",
+        "pinyin": "380dt"
+      },
+      {
+        "market": "sh",
+        "code": "000139",
+        "name": "上证转债",
+        "pinyin": "szzz"
+      },
+      {
+        "market": "sh",
+        "code": "000138",
+        "name": "380低贝",
+        "pinyin": "380db"
+      },
+      {
+        "market": "sh",
+        "code": "000137",
+        "name": "380高贝",
+        "pinyin": "380gb"
+      },
+      {
+        "market": "sh",
+        "code": "000136",
+        "name": "180低贝",
+        "pinyin": "180db"
+      },
+      {
+        "market": "sh",
+        "code": "000135",
+        "name": "180高贝",
+        "pinyin": "180gb"
+      },
+      {
+        "market": "sh",
+        "code": "000134",
+        "name": "上证银行",
+        "pinyin": "szyx"
+      },
+      {
+        "market": "sh",
+        "code": "000133",
+        "name": "上证150",
+        "pinyin": "sz150"
+      },
+      {
+        "market": "sh",
+        "code": "000132",
+        "name": "上证100",
+        "pinyin": "sz100"
+      },
+      {
+        "market": "sh",
+        "code": "000131",
+        "name": "上证高新",
+        "pinyin": "szgx"
+      },
+      {
+        "market": "sh",
+        "code": "000130",
+        "name": "380波动",
+        "pinyin": "380bd"
+      },
+      {
+        "market": "sh",
+        "code": "000129",
+        "name": "180波动",
+        "pinyin": "180bd"
+      },
+      {
+        "market": "sh",
+        "code": "000128",
+        "name": "380基本",
+        "pinyin": "380jb"
+      },
+      {
+        "market": "sh",
+        "code": "000126",
+        "name": "消费50",
+        "pinyin": "xf50"
+      },
+      {
+        "market": "sh",
+        "code": "000125",
+        "name": "180稳定",
+        "pinyin": "180wd"
+      },
+      {
+        "market": "sh",
+        "code": "000123",
+        "name": "180动态",
+        "pinyin": "180dt"
+      },
+      {
+        "market": "sh",
+        "code": "000122",
+        "name": "农业主题",
+        "pinyin": "nyzt"
+      },
+      {
+        "market": "sh",
+        "code": "000121",
+        "name": "医药主题",
+        "pinyin": "yyzt"
+      },
+      {
+        "market": "sh",
+        "code": "000120",
+        "name": "380R价值",
+        "pinyin": "380rjz"
+      },
+      {
+        "market": "sh",
+        "code": "000119",
+        "name": "380R成长",
+        "pinyin": "380rcc"
+      },
+      {
+        "market": "sh",
+        "code": "000118",
+        "name": "380价值",
+        "pinyin": "380jz"
+      },
+      {
+        "market": "sh",
+        "code": "000117",
+        "name": "380成长",
+        "pinyin": "380cc"
+      },
+      {
+        "market": "sh",
+        "code": "000116",
+        "name": "信用100",
+        "pinyin": "xy100"
+      },
+      {
+        "market": "sh",
+        "code": "000115",
+        "name": "380等权",
+        "pinyin": "380dq"
+      },
+      {
+        "market": "sh",
+        "code": "000114",
+        "name": "持续产业",
+        "pinyin": "cxcy"
+      },
+      {
+        "market": "sh",
+        "code": "000113",
+        "name": "380公用",
+        "pinyin": "380gy"
+      },
+      {
+        "market": "sh",
+        "code": "000112",
+        "name": "380电信",
+        "pinyin": "380dx"
+      },
+      {
+        "market": "sh",
+        "code": "000111",
+        "name": "380信息",
+        "pinyin": "380xx"
+      },
+      {
+        "market": "sh",
+        "code": "000110",
+        "name": "380金融",
+        "pinyin": "380jr"
+      },
+      {
+        "market": "sh",
+        "code": "000109",
+        "name": "380医药",
+        "pinyin": "380yy"
+      },
+      {
+        "market": "sh",
+        "code": "000108",
+        "name": "380消费",
+        "pinyin": "380xf"
+      },
+      {
+        "market": "sh",
+        "code": "000107",
+        "name": "380可选",
+        "pinyin": "380kx"
+      },
+      {
+        "market": "sh",
+        "code": "000106",
+        "name": "380工业",
+        "pinyin": "380gy"
+      },
+      {
+        "market": "sh",
+        "code": "000105",
+        "name": "380材料",
+        "pinyin": "380cl"
+      },
+      {
+        "market": "sh",
+        "code": "000104",
+        "name": "380能源",
+        "pinyin": "380ny"
+      },
+      {
+        "market": "sh",
+        "code": "000103",
+        "name": "沪消费品",
+        "pinyin": "hxfp"
+      },
+      {
+        "market": "sh",
+        "code": "000102",
+        "name": "沪投资品",
+        "pinyin": "htzp"
+      },
+      {
+        "market": "sh",
+        "code": "000101",
+        "name": "5年信用",
+        "pinyin": "5nxy"
+      },
+      {
+        "market": "sh",
+        "code": "000100",
+        "name": "上证F500",
+        "pinyin": "szf500"
+      },
+      {
+        "market": "sh",
+        "code": "000099",
+        "name": "上证F300",
+        "pinyin": "szf300"
+      },
+      {
+        "market": "sh",
+        "code": "000098",
+        "name": "上证F200",
+        "pinyin": "szf200"
+      },
+      {
+        "market": "sh",
+        "code": "000097",
+        "name": "高端装备",
+        "pinyin": "gdzb"
+      },
+      {
+        "market": "sh",
+        "code": "000096",
+        "name": "上证下游",
+        "pinyin": "szxy"
+      },
+      {
+        "market": "sh",
+        "code": "000095",
+        "name": "上证中游",
+        "pinyin": "szzy"
+      },
+      {
+        "market": "sh",
+        "code": "000094",
+        "name": "上证上游",
+        "pinyin": "szsy"
+      },
+      {
+        "market": "sh",
+        "code": "000093",
+        "name": "180分层",
+        "pinyin": "180fc"
+      },
+      {
+        "market": "sh",
+        "code": "000092",
+        "name": "资源50",
+        "pinyin": "zy50"
+      },
+      {
+        "market": "sh",
+        "code": "000091",
+        "name": "沪财中小",
+        "pinyin": "hczx"
+      },
+      {
+        "market": "sh",
+        "code": "000090",
+        "name": "上证流通",
+        "pinyin": "szlt"
+      },
+      {
+        "market": "sh",
+        "code": "000079",
+        "name": "公用等权",
+        "pinyin": "gydq"
+      },
+      {
+        "market": "sh",
+        "code": "000078",
+        "name": "电信等权",
+        "pinyin": "dxdq"
+      },
+      {
+        "market": "sh",
+        "code": "000077",
+        "name": "信息等权",
+        "pinyin": "xxdq"
+      },
+      {
+        "market": "sh",
+        "code": "000076",
+        "name": "金融等权",
+        "pinyin": "jrdq"
+      },
+      {
+        "market": "sh",
+        "code": "000075",
+        "name": "医药等权",
+        "pinyin": "yydq"
+      },
+      {
+        "market": "sh",
+        "code": "000074",
+        "name": "消费等权",
+        "pinyin": "xfdq"
+      },
+      {
+        "market": "sh",
+        "code": "000073",
+        "name": "可选等权",
+        "pinyin": "kxdq"
+      },
+      {
+        "market": "sh",
+        "code": "000072",
+        "name": "工业等权",
+        "pinyin": "gydq"
+      },
+      {
+        "market": "sh",
+        "code": "000071",
+        "name": "材料等权",
+        "pinyin": "cldq"
+      },
+      {
+        "market": "sh",
+        "code": "000070",
+        "name": "能源等权",
+        "pinyin": "nydq"
+      },
+      {
+        "market": "sh",
+        "code": "000069",
+        "name": "消费80",
+        "pinyin": "xf80"
+      },
+      {
+        "market": "sh",
+        "code": "000068",
+        "name": "上证资源",
+        "pinyin": "szzy"
+      },
+      {
+        "market": "sh",
+        "code": "000067",
+        "name": "上证新兴",
+        "pinyin": "szxx"
+      },
+      {
+        "market": "sh",
+        "code": "000066",
+        "name": "上证商品",
+        "pinyin": "szsp"
+      },
+      {
+        "market": "sh",
+        "code": "000065",
+        "name": "上证龙头",
+        "pinyin": "szlt"
+      },
+      {
+        "market": "sh",
+        "code": "000064",
+        "name": "非周期",
+        "pinyin": "fzq"
+      },
+      {
+        "market": "sh",
+        "code": "000063",
+        "name": "上证周期",
+        "pinyin": "szzq"
+      },
+      {
+        "market": "sh",
+        "code": "000062",
+        "name": "上证沪企",
+        "pinyin": "szhq"
+      },
+      {
+        "market": "sh",
+        "code": "000061",
+        "name": "沪企债30",
+        "pinyin": "hqz30"
+      },
+      {
+        "market": "sh",
+        "code": "000060",
+        "name": "全R价值",
+        "pinyin": "qrjz"
+      },
+      {
+        "market": "sh",
+        "code": "000059",
+        "name": "全R成长",
+        "pinyin": "qrcc"
+      },
+      {
+        "market": "sh",
+        "code": "000058",
+        "name": "全指价值",
+        "pinyin": "qzjz"
+      },
+      {
+        "market": "sh",
+        "code": "000057",
+        "name": "全指成长",
+        "pinyin": "qzcc"
+      },
+      {
+        "market": "sh",
+        "code": "000056",
+        "name": "上证国企",
+        "pinyin": "szgq"
+      },
+      {
+        "market": "sh",
+        "code": "000055",
+        "name": "上证地企",
+        "pinyin": "szdq"
+      },
+      {
+        "market": "sh",
+        "code": "000054",
+        "name": "上证海外",
+        "pinyin": "szhw"
+      },
+      {
+        "market": "sh",
+        "code": "000053",
+        "name": "180基本",
+        "pinyin": "180jb"
+      },
+      {
+        "market": "sh",
+        "code": "000052",
+        "name": "50基本",
+        "pinyin": "50jb"
+      },
+      {
+        "market": "sh",
+        "code": "000051",
+        "name": "180等权",
+        "pinyin": "180dq"
+      },
+      {
+        "market": "sh",
+        "code": "000050",
+        "name": "50等权",
+        "pinyin": "50dq"
+      },
+      {
+        "market": "sh",
+        "code": "000049",
+        "name": "上证民企",
+        "pinyin": "szmq"
+      },
+      {
+        "market": "sh",
+        "code": "000048",
+        "name": "责任指数",
+        "pinyin": "zrzs"
+      },
+      {
+        "market": "sh",
+        "code": "000047",
+        "name": "上证全指",
+        "pinyin": "szqz"
+      },
+      {
+        "market": "sh",
+        "code": "000046",
+        "name": "上证中小",
+        "pinyin": "szzx"
+      },
+      {
+        "market": "sh",
+        "code": "000045",
+        "name": "上证小盘",
+        "pinyin": "szxp"
+      },
+      {
+        "market": "sh",
+        "code": "000044",
+        "name": "上证中盘",
+        "pinyin": "szzp"
+      },
+      {
+        "market": "sh",
+        "code": "000043",
+        "name": "超大盘",
+        "pinyin": "cdp"
+      },
+      {
+        "market": "sh",
+        "code": "000042",
+        "name": "上证央企",
+        "pinyin": "szyq"
+      },
+      {
+        "market": "sh",
+        "code": "000041",
+        "name": "上证公用",
+        "pinyin": "szgy"
+      },
+      {
+        "market": "sh",
+        "code": "000040",
+        "name": "上证电信",
+        "pinyin": "szdx"
+      },
+      {
+        "market": "sh",
+        "code": "000039",
+        "name": "上证信息",
+        "pinyin": "szxx"
+      },
+      {
+        "market": "sh",
+        "code": "000038",
+        "name": "上证金融",
+        "pinyin": "szjr"
+      },
+      {
+        "market": "sh",
+        "code": "000037",
+        "name": "上证医药",
+        "pinyin": "szyy"
+      },
+      {
+        "market": "sh",
+        "code": "000036",
+        "name": "上证消费",
+        "pinyin": "szxf"
+      },
+      {
+        "market": "sh",
+        "code": "000035",
+        "name": "上证可选",
+        "pinyin": "szkx"
+      },
+      {
+        "market": "sh",
+        "code": "000034",
+        "name": "上证工业",
+        "pinyin": "szgy"
+      },
+      {
+        "market": "sh",
+        "code": "000033",
+        "name": "上证材料",
+        "pinyin": "szcl"
+      },
+      {
+        "market": "sh",
+        "code": "000032",
+        "name": "上证能源",
+        "pinyin": "szny"
+      },
+      {
+        "market": "sh",
+        "code": "000031",
+        "name": "180R价值",
+        "pinyin": "180rjz"
+      },
+      {
+        "market": "sh",
+        "code": "000030",
+        "name": "180R成长",
+        "pinyin": "180rcc"
+      },
+      {
+        "market": "sh",
+        "code": "000029",
+        "name": "180价值",
+        "pinyin": "180jz"
+      },
+      {
+        "market": "sh",
+        "code": "000028",
+        "name": "180成长",
+        "pinyin": "180cc"
+      },
+      {
+        "market": "sh",
+        "code": "000027",
+        "name": "180运输",
+        "pinyin": "180ys"
+      },
+      {
+        "market": "sh",
+        "code": "000026",
+        "name": "180资源",
+        "pinyin": "180zy"
+      },
+      {
+        "market": "sh",
+        "code": "000025",
+        "name": "180基建",
+        "pinyin": "180jj"
+      },
+      {
+        "market": "sh",
+        "code": "000022",
+        "name": "沪公司债",
+        "pinyin": "hgsz"
+      },
+      {
+        "market": "sh",
+        "code": "000021",
+        "name": "180治理",
+        "pinyin": "180zl"
+      },
+      {
+        "market": "sh",
+        "code": "000020",
+        "name": "中型综指",
+        "pinyin": "zxzz"
+      },
+      {
+        "market": "sh",
+        "code": "000019",
+        "name": "治理指数",
+        "pinyin": "zlzs"
+      },
+      {
+        "market": "sh",
+        "code": "000018",
+        "name": "180金融",
+        "pinyin": "180jr"
+      },
+      {
+        "market": "sh",
+        "code": "000017",
+        "name": "新综指",
+        "pinyin": "xzz"
+      },
+      {
+        "market": "sh",
+        "code": "000016",
+        "name": "上证50",
+        "pinyin": "sz50"
+      },
+      {
+        "market": "sh",
+        "code": "000015",
+        "name": "红利指数",
+        "pinyin": "hlzs"
+      },
+      {
+        "market": "sh",
+        "code": "000013",
+        "name": "企债指数",
+        "pinyin": "qzzs"
+      },
+      {
+        "market": "sh",
+        "code": "000012",
+        "name": "国债指数",
+        "pinyin": "gzzs"
+      },
+      {
+        "market": "sh",
+        "code": "000011",
+        "name": "基金指数",
+        "pinyin": "jjzs"
+      },
+      {
+        "market": "sh",
+        "code": "000010",
+        "name": "上证180",
+        "pinyin": "sz180"
+      },
+      {
+        "market": "sh",
+        "code": "000009",
+        "name": "上证380",
+        "pinyin": "sz380"
+      },
+      {
+        "market": "sh",
+        "code": "000008",
+        "name": "综合指数",
+        "pinyin": "zhzs"
+      },
+      {
+        "market": "sh",
+        "code": "000007",
+        "name": "公用指数",
+        "pinyin": "gyzs"
+      },
+      {
+        "market": "sh",
+        "code": "000006",
+        "name": "地产指数",
+        "pinyin": "dczs"
+      },
+      {
+        "market": "sh",
+        "code": "000005",
+        "name": "商业指数",
+        "pinyin": "syzs"
+      },
+      {
+        "market": "sh",
+        "code": "000004",
+        "name": "工业指数",
+        "pinyin": "gyzs"
+      },
+      {
+        "market": "sh",
+        "code": "000003",
+        "name": "B股指数",
+        "pinyin": "bgzs"
+      },
+      {
+        "market": "sh",
+        "code": "000002",
+        "name": "A股指数",
+        "pinyin": "agzs"
+      },
+      {
+        "market": "sh",
+        "code": "000001",
+        "name": "上证指数",
+        "pinyin": "szzs"
+      },
+      {
+        "market": "sz",
+        "code": "399998",
+        "name": "中证煤炭",
+        "pinyin": "zzmt"
+      },
+      {
+        "market": "sz",
+        "code": "399997",
+        "name": "中证白酒",
+        "pinyin": "zzbj"
+      },
+      {
+        "market": "sz",
+        "code": "399996",
+        "name": "智能家居",
+        "pinyin": "znjj"
+      },
+      {
+        "market": "sz",
+        "code": "399995",
+        "name": "基建工程",
+        "pinyin": "jjgc"
+      },
+      {
+        "market": "sz",
+        "code": "399994",
+        "name": "信息安全",
+        "pinyin": "xxaq"
+      },
+      {
+        "market": "sz",
+        "code": "399993",
+        "name": "CSWD生科",
+        "pinyin": "cswdsk"
+      },
+      {
+        "market": "sz",
+        "code": "399992",
+        "name": "CSWD并购",
+        "pinyin": "cswdbg"
+      },
+      {
+        "market": "sz",
+        "code": "399991",
+        "name": "一带一路",
+        "pinyin": "ydyl"
+      },
+      {
+        "market": "sz",
+        "code": "399990",
+        "name": "煤炭等权",
+        "pinyin": "mtdq"
+      },
+      {
+        "market": "sz",
+        "code": "399989",
+        "name": "中证医疗",
+        "pinyin": "zzyl"
+      },
+      {
+        "market": "sz",
+        "code": "399987",
+        "name": "中证酒",
+        "pinyin": "zzj"
+      },
+      {
+        "market": "sz",
+        "code": "399986",
+        "name": "中证银行",
+        "pinyin": "zzyx"
+      },
+      {
+        "market": "sz",
+        "code": "399983",
+        "name": "地产等权",
+        "pinyin": "dcdq"
+      },
+      {
+        "market": "sz",
+        "code": "399982",
+        "name": "500等权",
+        "pinyin": "500dq"
+      },
+      {
+        "market": "sz",
+        "code": "399979",
+        "name": "大宗商品",
+        "pinyin": "dzsp"
+      },
+      {
+        "market": "sz",
+        "code": "399978",
+        "name": "医药100",
+        "pinyin": "yy100"
+      },
+      {
+        "market": "sz",
+        "code": "399977",
+        "name": "内地低碳",
+        "pinyin": "nddt"
+      },
+      {
+        "market": "sz",
+        "code": "399976",
+        "name": "CS新能车",
+        "pinyin": "csxnc"
+      },
+      {
+        "market": "sz",
+        "code": "399975",
+        "name": "证券公司",
+        "pinyin": "zqgs"
+      },
+      {
+        "market": "sz",
+        "code": "399974",
+        "name": "国企改革",
+        "pinyin": "gqgg"
+      },
+      {
+        "market": "sz",
+        "code": "399973",
+        "name": "中证国防",
+        "pinyin": "zzgf"
+      },
+      {
+        "market": "sz",
+        "code": "399972",
+        "name": "300深市",
+        "pinyin": "300ss"
+      },
+      {
+        "market": "sz",
+        "code": "399971",
+        "name": "中证传媒",
+        "pinyin": "zzcm"
+      },
+      {
+        "market": "sz",
+        "code": "399970",
+        "name": "移动互联",
+        "pinyin": "ydhl"
+      },
+      {
+        "market": "sz",
+        "code": "399969",
+        "name": "300非周",
+        "pinyin": "300fz"
+      },
+      {
+        "market": "sz",
+        "code": "399967",
+        "name": "中证军工",
+        "pinyin": "zzjg"
+      },
+      {
+        "market": "sz",
+        "code": "399966",
+        "name": "800非银",
+        "pinyin": "800fy"
+      },
+      {
+        "market": "sz",
+        "code": "399965",
+        "name": "800地产",
+        "pinyin": "800dc"
+      },
+      {
+        "market": "sz",
+        "code": "399964",
+        "name": "中证新兴",
+        "pinyin": "zzxx"
+      },
+      {
+        "market": "sz",
+        "code": "399963",
+        "name": "中证下游",
+        "pinyin": "zzxy"
+      },
+      {
+        "market": "sz",
+        "code": "399961",
+        "name": "中证上游",
+        "pinyin": "zzsy"
+      },
+      {
+        "market": "sz",
+        "code": "399959",
+        "name": "军工指数",
+        "pinyin": "jgzs"
+      },
+      {
+        "market": "sz",
+        "code": "399958",
+        "name": "创业成长",
+        "pinyin": "cycc"
+      },
+      {
+        "market": "sz",
+        "code": "399957",
+        "name": "300运输",
+        "pinyin": "300ys"
+      },
+      {
+        "market": "sz",
+        "code": "399952",
+        "name": "300地产",
+        "pinyin": "300dc"
+      },
+      {
+        "market": "sz",
+        "code": "399951",
+        "name": "300银行",
+        "pinyin": "300yx"
+      },
+      {
+        "market": "sz",
+        "code": "399950",
+        "name": "300基建",
+        "pinyin": "300jj"
+      },
+      {
+        "market": "sz",
+        "code": "399944",
+        "name": "内地资源",
+        "pinyin": "ndzy"
+      },
+      {
+        "market": "sz",
+        "code": "399939",
+        "name": "民企200",
+        "pinyin": "mq200"
+      },
+      {
+        "market": "sz",
+        "code": "399935",
+        "name": "中证信息",
+        "pinyin": "zzxx"
+      },
+      {
+        "market": "sz",
+        "code": "399934",
+        "name": "中证金融",
+        "pinyin": "zzjr"
+      },
+      {
+        "market": "sz",
+        "code": "399933",
+        "name": "中证医药",
+        "pinyin": "zzyy"
+      },
+      {
+        "market": "sz",
+        "code": "399932",
+        "name": "中证消费",
+        "pinyin": "zzxf"
+      },
+      {
+        "market": "sz",
+        "code": "399931",
+        "name": "中证可选",
+        "pinyin": "zzkx"
+      },
+      {
+        "market": "sz",
+        "code": "399928",
+        "name": "中证能源",
+        "pinyin": "zzny"
+      },
+      {
+        "market": "sz",
+        "code": "399925",
+        "name": "基本面50",
+        "pinyin": "jbm50"
+      },
+      {
+        "market": "sz",
+        "code": "399922",
+        "name": "中证红利",
+        "pinyin": "zzhl"
+      },
+      {
+        "market": "sz",
+        "code": "399919",
+        "name": "300价值",
+        "pinyin": "300jz"
+      },
+      {
+        "market": "sz",
+        "code": "399918",
+        "name": "300成长",
+        "pinyin": "300cc"
+      },
+      {
+        "market": "sz",
+        "code": "399917",
+        "name": "300公用",
+        "pinyin": "300gy"
+      },
+      {
+        "market": "sz",
+        "code": "399914",
+        "name": "300金融",
+        "pinyin": "300jr"
+      },
+      {
+        "market": "sz",
+        "code": "399913",
+        "name": "300医药",
+        "pinyin": "300yy"
+      },
+      {
+        "market": "sz",
+        "code": "399912",
+        "name": "300消费",
+        "pinyin": "300xf"
+      },
+      {
+        "market": "sz",
+        "code": "399911",
+        "name": "300可选",
+        "pinyin": "300kx"
+      },
+      {
+        "market": "sz",
+        "code": "399910",
+        "name": "300工业",
+        "pinyin": "300gy"
+      },
+      {
+        "market": "sz",
+        "code": "399909",
+        "name": "300材料",
+        "pinyin": "300cl"
+      },
+      {
+        "market": "sz",
+        "code": "399908",
+        "name": "300能源",
+        "pinyin": "300ny"
+      },
+      {
+        "market": "sz",
+        "code": "399905",
+        "name": "中证500",
+        "pinyin": "zz500"
+      },
+      {
+        "market": "sz",
+        "code": "399904",
+        "name": "中证200",
+        "pinyin": "zz200"
+      },
+      {
+        "market": "sz",
+        "code": "399903",
+        "name": "中证100",
+        "pinyin": "zz100"
+      },
+      {
+        "market": "sz",
+        "code": "399901",
+        "name": "小康指数",
+        "pinyin": "xkzs"
+      },
+      {
+        "market": "sz",
+        "code": "399817",
+        "name": "生态100",
+        "pinyin": "st100"
+      },
+      {
+        "market": "sz",
+        "code": "399814",
+        "name": "大农业",
+        "pinyin": "dny"
+      },
+      {
+        "market": "sz",
+        "code": "399813",
+        "name": "中证国安",
+        "pinyin": "zzga"
+      },
+      {
+        "market": "sz",
+        "code": "399812",
+        "name": "养老产业",
+        "pinyin": "ylcy"
+      },
+      {
+        "market": "sz",
+        "code": "399811",
+        "name": "CSSW电子",
+        "pinyin": "csswdz"
+      },
+      {
+        "market": "sz",
+        "code": "399810",
+        "name": "CSSW传媒",
+        "pinyin": "csswcm"
+      },
+      {
+        "market": "sz",
+        "code": "399809",
+        "name": "保险主题",
+        "pinyin": "bxzt"
+      },
+      {
+        "market": "sz",
+        "code": "399808",
+        "name": "中证新能",
+        "pinyin": "zzxn"
+      },
+      {
+        "market": "sz",
+        "code": "399807",
+        "name": "高铁产业",
+        "pinyin": "gtcy"
+      },
+      {
+        "market": "sz",
+        "code": "399806",
+        "name": "环境治理",
+        "pinyin": "hjzl"
+      },
+      {
+        "market": "sz",
+        "code": "399805",
+        "name": "互联金融",
+        "pinyin": "hljr"
+      },
+      {
+        "market": "sz",
+        "code": "399804",
+        "name": "中证体育",
+        "pinyin": "zzty"
+      },
+      {
+        "market": "sz",
+        "code": "399803",
+        "name": "工业4.0",
+        "pinyin": "gy4.0"
+      },
+      {
+        "market": "sz",
+        "code": "399802",
+        "name": "500深市",
+        "pinyin": "500ss"
+      },
+      {
+        "market": "sz",
+        "code": "399707",
+        "name": "CSSW证券",
+        "pinyin": "csswzq"
+      },
+      {
+        "market": "sz",
+        "code": "399706",
+        "name": "深证下游",
+        "pinyin": "szxy"
+      },
+      {
+        "market": "sz",
+        "code": "399705",
+        "name": "深证中游",
+        "pinyin": "szzy"
+      },
+      {
+        "market": "sz",
+        "code": "399704",
+        "name": "深证上游",
+        "pinyin": "szsy"
+      },
+      {
+        "market": "sz",
+        "code": "399703",
+        "name": "深证F200",
+        "pinyin": "szf200"
+      },
+      {
+        "market": "sz",
+        "code": "399702",
+        "name": "深证F120",
+        "pinyin": "szf120"
+      },
+      {
+        "market": "sz",
+        "code": "399701",
+        "name": "深证F60",
+        "pinyin": "szf60"
+      },
+      {
+        "market": "sz",
+        "code": "399696",
+        "name": "深证创投",
+        "pinyin": "szct"
+      },
+      {
+        "market": "sz",
+        "code": "399693",
+        "name": "安防产业",
+        "pinyin": "afcy"
+      },
+      {
+        "market": "sz",
+        "code": "399691",
+        "name": "创业专利",
+        "pinyin": "cyzl"
+      },
+      {
+        "market": "sz",
+        "code": "399690",
+        "name": "中小专利",
+        "pinyin": "zxzl"
+      },
+      {
+        "market": "sz",
+        "code": "399689",
+        "name": "深成公用",
+        "pinyin": "scgy"
+      },
+      {
+        "market": "sz",
+        "code": "399688",
+        "name": "深成电信",
+        "pinyin": "scdx"
+      },
+      {
+        "market": "sz",
+        "code": "399687",
+        "name": "深成信息",
+        "pinyin": "scxx"
+      },
+      {
+        "market": "sz",
+        "code": "399686",
+        "name": "深成金融",
+        "pinyin": "scjr"
+      },
+      {
+        "market": "sz",
+        "code": "399685",
+        "name": "深成医药",
+        "pinyin": "scyy"
+      },
+      {
+        "market": "sz",
+        "code": "399684",
+        "name": "深成消费",
+        "pinyin": "scxf"
+      },
+      {
+        "market": "sz",
+        "code": "399683",
+        "name": "深成可选",
+        "pinyin": "sckx"
+      },
+      {
+        "market": "sz",
+        "code": "399682",
+        "name": "深成工业",
+        "pinyin": "scgy"
+      },
+      {
+        "market": "sz",
+        "code": "399681",
+        "name": "深成材料",
+        "pinyin": "sccl"
+      },
+      {
+        "market": "sz",
+        "code": "399680",
+        "name": "深成能源",
+        "pinyin": "scny"
+      },
+      {
+        "market": "sz",
+        "code": "399679",
+        "name": "深证200R",
+        "pinyin": "sz200r"
+      },
+      {
+        "market": "sz",
+        "code": "399678",
+        "name": "深次新股",
+        "pinyin": "scxg"
+      },
+      {
+        "market": "sz",
+        "code": "399677",
+        "name": "深互联EW",
+        "pinyin": "shlew"
+      },
+      {
+        "market": "sz",
+        "code": "399676",
+        "name": "深医药EW",
+        "pinyin": "syyew"
+      },
+      {
+        "market": "sz",
+        "code": "399675",
+        "name": "深互联网",
+        "pinyin": "shlw"
+      },
+      {
+        "market": "sz",
+        "code": "399674",
+        "name": "深A医药",
+        "pinyin": "sayy"
+      },
+      {
+        "market": "sz",
+        "code": "399673",
+        "name": "创业板50",
+        "pinyin": "cyb50"
+      },
+      {
+        "market": "sz",
+        "code": "399672",
+        "name": "深红利50",
+        "pinyin": "shl50"
+      },
+      {
+        "market": "sz",
+        "code": "399671",
+        "name": "深防御50",
+        "pinyin": "sfy50"
+      },
+      {
+        "market": "sz",
+        "code": "399670",
+        "name": "深周期50",
+        "pinyin": "szq50"
+      },
+      {
+        "market": "sz",
+        "code": "399669",
+        "name": "深证农业",
+        "pinyin": "szny"
+      },
+      {
+        "market": "sz",
+        "code": "399668",
+        "name": "创业板V",
+        "pinyin": "cybv"
+      },
+      {
+        "market": "sz",
+        "code": "399667",
+        "name": "创业板G",
+        "pinyin": "cybg"
+      },
+      {
+        "market": "sz",
+        "code": "399666",
+        "name": "中创高贝",
+        "pinyin": "zcgb"
+      },
+      {
+        "market": "sz",
+        "code": "399665",
+        "name": "中创低波",
+        "pinyin": "zcdb"
+      },
+      {
+        "market": "sz",
+        "code": "399664",
+        "name": "中小高贝",
+        "pinyin": "zxgb"
+      },
+      {
+        "market": "sz",
+        "code": "399663",
+        "name": "中小低波",
+        "pinyin": "zxdb"
+      },
+      {
+        "market": "sz",
+        "code": "399662",
+        "name": "深证高贝",
+        "pinyin": "szgb"
+      },
+      {
+        "market": "sz",
+        "code": "399661",
+        "name": "深证低波",
+        "pinyin": "szdb"
+      },
+      {
+        "market": "sz",
+        "code": "399660",
+        "name": "中创EW",
+        "pinyin": "zcew"
+      },
+      {
+        "market": "sz",
+        "code": "399659",
+        "name": "深成指EW",
+        "pinyin": "sczew"
+      },
+      {
+        "market": "sz",
+        "code": "399658",
+        "name": "中小绩效",
+        "pinyin": "zxjx"
+      },
+      {
+        "market": "sz",
+        "code": "399657",
+        "name": "300绩效",
+        "pinyin": "300jx"
+      },
+      {
+        "market": "sz",
+        "code": "399656",
+        "name": "100绩效",
+        "pinyin": "100jx"
+      },
+      {
+        "market": "sz",
+        "code": "399655",
+        "name": "深证绩效",
+        "pinyin": "szjx"
+      },
+      {
+        "market": "sz",
+        "code": "399654",
+        "name": "深证文化",
+        "pinyin": "szwh"
+      },
+      {
+        "market": "sz",
+        "code": "399653",
+        "name": "深证龙头",
+        "pinyin": "szlt"
+      },
+      {
+        "market": "sz",
+        "code": "399652",
+        "name": "中创高新",
+        "pinyin": "zcgx"
+      },
+      {
+        "market": "sz",
+        "code": "399651",
+        "name": "中小责任",
+        "pinyin": "zxzr"
+      },
+      {
+        "market": "sz",
+        "code": "399650",
+        "name": "中小治理",
+        "pinyin": "zxzl"
+      },
+      {
+        "market": "sz",
+        "code": "399649",
+        "name": "中小红利",
+        "pinyin": "zxhl"
+      },
+      {
+        "market": "sz",
+        "code": "399648",
+        "name": "深证GDP",
+        "pinyin": "szgdp"
+      },
+      {
+        "market": "sz",
+        "code": "399647",
+        "name": "深医药50",
+        "pinyin": "syy50"
+      },
+      {
+        "market": "sz",
+        "code": "399646",
+        "name": "深消费50",
+        "pinyin": "sxf50"
+      },
+      {
+        "market": "sz",
+        "code": "399645",
+        "name": "100低波",
+        "pinyin": "100db"
+      },
+      {
+        "market": "sz",
+        "code": "399644",
+        "name": "深证时钟",
+        "pinyin": "szsz"
+      },
+      {
+        "market": "sz",
+        "code": "399643",
+        "name": "创业新兴",
+        "pinyin": "cyxx"
+      },
+      {
+        "market": "sz",
+        "code": "399642",
+        "name": "中小新兴",
+        "pinyin": "zxxx"
+      },
+      {
+        "market": "sz",
+        "code": "399641",
+        "name": "深证新兴",
+        "pinyin": "szxx"
+      },
+      {
+        "market": "sz",
+        "code": "399640",
+        "name": "创业基础",
+        "pinyin": "cyjc"
+      },
+      {
+        "market": "sz",
+        "code": "399639",
+        "name": "深证大宗",
+        "pinyin": "szdz"
+      },
+      {
+        "market": "sz",
+        "code": "399638",
+        "name": "深证环保",
+        "pinyin": "szhb"
+      },
+      {
+        "market": "sz",
+        "code": "399637",
+        "name": "深证地产",
+        "pinyin": "szdc"
+      },
+      {
+        "market": "sz",
+        "code": "399636",
+        "name": "深证装备",
+        "pinyin": "szzb"
+      },
+      {
+        "market": "sz",
+        "code": "399635",
+        "name": "创业板EW",
+        "pinyin": "cybew"
+      },
+      {
+        "market": "sz",
+        "code": "399634",
+        "name": "中小板EW",
+        "pinyin": "zxbew"
+      },
+      {
+        "market": "sz",
+        "code": "399633",
+        "name": "深300EW",
+        "pinyin": "s300ew"
+      },
+      {
+        "market": "sz",
+        "code": "399632",
+        "name": "深100EW",
+        "pinyin": "s100ew"
+      },
+      {
+        "market": "sz",
+        "code": "399631",
+        "name": "1000价值",
+        "pinyin": "1000jz"
+      },
+      {
+        "market": "sz",
+        "code": "399630",
+        "name": "1000成长",
+        "pinyin": "1000cc"
+      },
+      {
+        "market": "sz",
+        "code": "399629",
+        "name": "700价值",
+        "pinyin": "700jz"
+      },
+      {
+        "market": "sz",
+        "code": "399628",
+        "name": "700成长",
+        "pinyin": "700cc"
+      },
+      {
+        "market": "sz",
+        "code": "399627",
+        "name": "中创价值",
+        "pinyin": "zcjz"
+      },
+      {
+        "market": "sz",
+        "code": "399626",
+        "name": "中创成长",
+        "pinyin": "zccc"
+      },
+      {
+        "market": "sz",
+        "code": "399625",
+        "name": "中创500",
+        "pinyin": "zc500"
+      },
+      {
+        "market": "sz",
+        "code": "399624",
+        "name": "中创400",
+        "pinyin": "zc400"
+      },
+      {
+        "market": "sz",
+        "code": "399623",
+        "name": "中小基础",
+        "pinyin": "zxjc"
+      },
+      {
+        "market": "sz",
+        "code": "399622",
+        "name": "深证公用",
+        "pinyin": "szgy"
+      },
+      {
+        "market": "sz",
+        "code": "399621",
+        "name": "深证电信",
+        "pinyin": "szdx"
+      },
+      {
+        "market": "sz",
+        "code": "399620",
+        "name": "深证信息",
+        "pinyin": "szxx"
+      },
+      {
+        "market": "sz",
+        "code": "399619",
+        "name": "深证金融",
+        "pinyin": "szjr"
+      },
+      {
+        "market": "sz",
+        "code": "399618",
+        "name": "深证医药",
+        "pinyin": "szyy"
+      },
+      {
+        "market": "sz",
+        "code": "399617",
+        "name": "深证消费",
+        "pinyin": "szxf"
+      },
+      {
+        "market": "sz",
+        "code": "399616",
+        "name": "深证可选",
+        "pinyin": "szkx"
+      },
+      {
+        "market": "sz",
+        "code": "399615",
+        "name": "深证工业",
+        "pinyin": "szgy"
+      },
+      {
+        "market": "sz",
+        "code": "399614",
+        "name": "深证材料",
+        "pinyin": "szcl"
+      },
+      {
+        "market": "sz",
+        "code": "399613",
+        "name": "深证能源",
+        "pinyin": "szny"
+      },
+      {
+        "market": "sz",
+        "code": "399612",
+        "name": "中创100",
+        "pinyin": "zc100"
+      },
+      {
+        "market": "sz",
+        "code": "399611",
+        "name": "中创100R",
+        "pinyin": "zc100r"
+      },
+      {
+        "market": "sz",
+        "code": "399610",
+        "name": "TMT50",
+        "pinyin": "tmt50"
+      },
+      {
+        "market": "sz",
+        "code": "399608",
+        "name": "科技100",
+        "pinyin": "kj100"
+      },
+      {
+        "market": "sz",
+        "code": "399606",
+        "name": "创业板R",
+        "pinyin": "cybr"
+      },
+      {
+        "market": "sz",
+        "code": "399604",
+        "name": "中小价值",
+        "pinyin": "zxjz"
+      },
+      {
+        "market": "sz",
+        "code": "399602",
+        "name": "中小成长",
+        "pinyin": "zxcc"
+      },
+      {
+        "market": "sz",
+        "code": "399557",
+        "name": "央视文化",
+        "pinyin": "yswh"
+      },
+      {
+        "market": "sz",
+        "code": "399556",
+        "name": "央视生态",
+        "pinyin": "ysst"
+      },
+      {
+        "market": "sz",
+        "code": "399555",
+        "name": "央视责任",
+        "pinyin": "yszr"
+      },
+      {
+        "market": "sz",
+        "code": "399554",
+        "name": "央视治理",
+        "pinyin": "yszl"
+      },
+      {
+        "market": "sz",
+        "code": "399553",
+        "name": "央视回报",
+        "pinyin": "yshb"
+      },
+      {
+        "market": "sz",
+        "code": "399552",
+        "name": "央视成长",
+        "pinyin": "yscc"
+      },
+      {
+        "market": "sz",
+        "code": "399551",
+        "name": "央视创新",
+        "pinyin": "yscx"
+      },
+      {
+        "market": "sz",
+        "code": "399550",
+        "name": "央视50",
+        "pinyin": "ys50"
+      },
+      {
+        "market": "sz",
+        "code": "399481",
+        "name": "企债指数",
+        "pinyin": "qzzs"
+      },
+      {
+        "market": "sz",
+        "code": "399441",
+        "name": "生物医药",
+        "pinyin": "swyy"
+      },
+      {
+        "market": "sz",
+        "code": "399440",
+        "name": "国证钢铁",
+        "pinyin": "gzgt"
+      },
+      {
+        "market": "sz",
+        "code": "399439",
+        "name": "国证油气",
+        "pinyin": "gzyq"
+      },
+      {
+        "market": "sz",
+        "code": "399438",
+        "name": "国证电力",
+        "pinyin": "gzdl"
+      },
+      {
+        "market": "sz",
+        "code": "399437",
+        "name": "国证证券",
+        "pinyin": "gzzq"
+      },
+      {
+        "market": "sz",
+        "code": "399436",
+        "name": "国证煤炭",
+        "pinyin": "gzmt"
+      },
+      {
+        "market": "sz",
+        "code": "399435",
+        "name": "国证农牧",
+        "pinyin": "gznm"
+      },
+      {
+        "market": "sz",
+        "code": "399434",
+        "name": "国证传媒",
+        "pinyin": "gzcm"
+      },
+      {
+        "market": "sz",
+        "code": "399433",
+        "name": "国证交运",
+        "pinyin": "gzjy"
+      },
+      {
+        "market": "sz",
+        "code": "399432",
+        "name": "国证汽车",
+        "pinyin": "gzqc"
+      },
+      {
+        "market": "sz",
+        "code": "399431",
+        "name": "国证银行",
+        "pinyin": "gzyx"
+      },
+      {
+        "market": "sz",
+        "code": "399429",
+        "name": "新丝路",
+        "pinyin": "xsl"
+      },
+      {
+        "market": "sz",
+        "code": "399428",
+        "name": "国证定增",
+        "pinyin": "gzdz"
+      },
+      {
+        "market": "sz",
+        "code": "399427",
+        "name": "专利领先",
+        "pinyin": "zllx"
+      },
+      {
+        "market": "sz",
+        "code": "399423",
+        "name": "中关村50",
+        "pinyin": "zgc50"
+      },
+      {
+        "market": "sz",
+        "code": "399420",
+        "name": "国证保证",
+        "pinyin": "gzbz"
+      },
+      {
+        "market": "sz",
+        "code": "399419",
+        "name": "国证高铁",
+        "pinyin": "gzgt"
+      },
+      {
+        "market": "sz",
+        "code": "399418",
+        "name": "国证国安",
+        "pinyin": "gzga"
+      },
+      {
+        "market": "sz",
+        "code": "399417",
+        "name": "新能源车",
+        "pinyin": "xnyc"
+      },
+      {
+        "market": "sz",
+        "code": "399416",
+        "name": "I300",
+        "pinyin": "i300"
+      },
+      {
+        "market": "sz",
+        "code": "399415",
+        "name": "I100",
+        "pinyin": "i100"
+      },
+      {
+        "market": "sz",
+        "code": "399413",
+        "name": "国证转债",
+        "pinyin": "gzzz"
+      },
+      {
+        "market": "sz",
+        "code": "399412",
+        "name": "国证新能",
+        "pinyin": "gzxn"
+      },
+      {
+        "market": "sz",
+        "code": "399411",
+        "name": "红利100",
+        "pinyin": "hl100"
+      },
+      {
+        "market": "sz",
+        "code": "399410",
+        "name": "苏州率先",
+        "pinyin": "szlx"
+      },
+      {
+        "market": "sz",
+        "code": "399409",
+        "name": "小盘高贝",
+        "pinyin": "xpgb"
+      },
+      {
+        "market": "sz",
+        "code": "399408",
+        "name": "小盘低波",
+        "pinyin": "xpdb"
+      },
+      {
+        "market": "sz",
+        "code": "399407",
+        "name": "中盘高贝",
+        "pinyin": "zpgb"
+      },
+      {
+        "market": "sz",
+        "code": "399406",
+        "name": "中盘低波",
+        "pinyin": "zpdb"
+      },
+      {
+        "market": "sz",
+        "code": "399405",
+        "name": "大盘高贝",
+        "pinyin": "dpgb"
+      },
+      {
+        "market": "sz",
+        "code": "399404",
+        "name": "大盘低波",
+        "pinyin": "dpdb"
+      },
+      {
+        "market": "sz",
+        "code": "399403",
+        "name": "防御100",
+        "pinyin": "fy100"
+      },
+      {
+        "market": "sz",
+        "code": "399402",
+        "name": "周期100",
+        "pinyin": "zq100"
+      },
+      {
+        "market": "sz",
+        "code": "399401",
+        "name": "中小盘",
+        "pinyin": "zxp"
+      },
+      {
+        "market": "sz",
+        "code": "399400",
+        "name": "大中盘",
+        "pinyin": "dzp"
+      },
+      {
+        "market": "sz",
+        "code": "399399",
+        "name": "中经GDP",
+        "pinyin": "zjgdp"
+      },
+      {
+        "market": "sz",
+        "code": "399398",
+        "name": "绩效指数",
+        "pinyin": "jxzs"
+      },
+      {
+        "market": "sz",
+        "code": "399397",
+        "name": "OCT文化",
+        "pinyin": "octwh"
+      },
+      {
+        "market": "sz",
+        "code": "399396",
+        "name": "国证食品",
+        "pinyin": "gzsp"
+      },
+      {
+        "market": "sz",
+        "code": "399395",
+        "name": "国证有色",
+        "pinyin": "gzys"
+      },
+      {
+        "market": "sz",
+        "code": "399394",
+        "name": "国证医药",
+        "pinyin": "gzyy"
+      },
+      {
+        "market": "sz",
+        "code": "399393",
+        "name": "国证地产",
+        "pinyin": "gzdc"
+      },
+      {
+        "market": "sz",
+        "code": "399392",
+        "name": "国证新兴",
+        "pinyin": "gzxx"
+      },
+      {
+        "market": "sz",
+        "code": "399391",
+        "name": "投资时钟",
+        "pinyin": "tzsz"
+      },
+      {
+        "market": "sz",
+        "code": "399390",
+        "name": "1000公用",
+        "pinyin": "1000gy"
+      },
+      {
+        "market": "sz",
+        "code": "399389",
+        "name": "国证通信",
+        "pinyin": "gztx"
+      },
+      {
+        "market": "sz",
+        "code": "399388",
+        "name": "1000信息",
+        "pinyin": "1000xx"
+      },
+      {
+        "market": "sz",
+        "code": "399387",
+        "name": "1000金融",
+        "pinyin": "1000jr"
+      },
+      {
+        "market": "sz",
+        "code": "399386",
+        "name": "1000医药",
+        "pinyin": "1000yy"
+      },
+      {
+        "market": "sz",
+        "code": "399385",
+        "name": "1000消费",
+        "pinyin": "1000xf"
+      },
+      {
+        "market": "sz",
+        "code": "399384",
+        "name": "1000可选",
+        "pinyin": "1000kx"
+      },
+      {
+        "market": "sz",
+        "code": "399383",
+        "name": "1000工业",
+        "pinyin": "1000gy"
+      },
+      {
+        "market": "sz",
+        "code": "399382",
+        "name": "1000材料",
+        "pinyin": "1000cl"
+      },
+      {
+        "market": "sz",
+        "code": "399381",
+        "name": "1000能源",
+        "pinyin": "1000ny"
+      },
+      {
+        "market": "sz",
+        "code": "399380",
+        "name": "国证ETF",
+        "pinyin": "gzetf"
+      },
+      {
+        "market": "sz",
+        "code": "399379",
+        "name": "国证基金",
+        "pinyin": "gzjj"
+      },
+      {
+        "market": "sz",
+        "code": "399378",
+        "name": "南方低碳",
+        "pinyin": "nfdt"
+      },
+      {
+        "market": "sz",
+        "code": "399377",
+        "name": "小盘价值",
+        "pinyin": "xpjz"
+      },
+      {
+        "market": "sz",
+        "code": "399376",
+        "name": "小盘成长",
+        "pinyin": "xpcc"
+      },
+      {
+        "market": "sz",
+        "code": "399375",
+        "name": "中盘价值",
+        "pinyin": "zpjz"
+      },
+      {
+        "market": "sz",
+        "code": "399374",
+        "name": "中盘成长",
+        "pinyin": "zpcc"
+      },
+      {
+        "market": "sz",
+        "code": "399373",
+        "name": "大盘价值",
+        "pinyin": "dpjz"
+      },
+      {
+        "market": "sz",
+        "code": "399372",
+        "name": "大盘成长",
+        "pinyin": "dpcc"
+      },
+      {
+        "market": "sz",
+        "code": "399371",
+        "name": "国证价值",
+        "pinyin": "gzjz"
+      },
+      {
+        "market": "sz",
+        "code": "399370",
+        "name": "国证成长",
+        "pinyin": "gzcc"
+      },
+      {
+        "market": "sz",
+        "code": "399369",
+        "name": "CBN-兴全",
+        "pinyin": "cbn-xq"
+      },
+      {
+        "market": "sz",
+        "code": "399368",
+        "name": "国证军工",
+        "pinyin": "gzjg"
+      },
+      {
+        "market": "sz",
+        "code": "399367",
+        "name": "巨潮地产",
+        "pinyin": "jcdc"
+      },
+      {
+        "market": "sz",
+        "code": "399366",
+        "name": "国证大宗",
+        "pinyin": "gzdz"
+      },
+      {
+        "market": "sz",
+        "code": "399365",
+        "name": "国证农业",
+        "pinyin": "gzny"
+      },
+      {
+        "market": "sz",
+        "code": "399364",
+        "name": "中金消费",
+        "pinyin": "zjxf"
+      },
+      {
+        "market": "sz",
+        "code": "399363",
+        "name": "计算机指",
+        "pinyin": "jsjz"
+      },
+      {
+        "market": "sz",
+        "code": "399362",
+        "name": "国证民营",
+        "pinyin": "gzmy"
+      },
+      {
+        "market": "sz",
+        "code": "399361",
+        "name": "国证商业",
+        "pinyin": "gzsy"
+      },
+      {
+        "market": "sz",
+        "code": "399360",
+        "name": "新硬件",
+        "pinyin": "xyj"
+      },
+      {
+        "market": "sz",
+        "code": "399359",
+        "name": "国证基建",
+        "pinyin": "gzjj"
+      },
+      {
+        "market": "sz",
+        "code": "399358",
+        "name": "泰达指数",
+        "pinyin": "tdzs"
+      },
+      {
+        "market": "sz",
+        "code": "399357",
+        "name": "环渤海",
+        "pinyin": "hbh"
+      },
+      {
+        "market": "sz",
+        "code": "399356",
+        "name": "珠三角",
+        "pinyin": "zsj"
+      },
+      {
+        "market": "sz",
+        "code": "399355",
+        "name": "长三角",
+        "pinyin": "csj"
+      },
+      {
+        "market": "sz",
+        "code": "399354",
+        "name": "分析师指数",
+        "pinyin": "fxszs"
+      },
+      {
+        "market": "sz",
+        "code": "399353",
+        "name": "国证物流",
+        "pinyin": "gzwl"
+      },
+      {
+        "market": "sz",
+        "code": "399352",
+        "name": "深报综指",
+        "pinyin": "sbzz"
+      },
+      {
+        "market": "sz",
+        "code": "399351",
+        "name": "深报指数",
+        "pinyin": "sbzs"
+      },
+      {
+        "market": "sz",
+        "code": "399350",
+        "name": "皖江30",
+        "pinyin": "wj30"
+      },
+      {
+        "market": "sz",
+        "code": "399348",
+        "name": "深证价值",
+        "pinyin": "szjz"
+      },
+      {
+        "market": "sz",
+        "code": "399346",
+        "name": "深证成长",
+        "pinyin": "szcc"
+      },
+      {
+        "market": "sz",
+        "code": "399344",
+        "name": "深证300R",
+        "pinyin": "sz300r"
+      },
+      {
+        "market": "sz",
+        "code": "399341",
+        "name": "深证责任",
+        "pinyin": "szzr"
+      },
+      {
+        "market": "sz",
+        "code": "399339",
+        "name": "深证科技",
+        "pinyin": "szkj"
+      },
+      {
+        "market": "sz",
+        "code": "399337",
+        "name": "深证民营",
+        "pinyin": "szmy"
+      },
+      {
+        "market": "sz",
+        "code": "399335",
+        "name": "深证央企",
+        "pinyin": "szyq"
+      },
+      {
+        "market": "sz",
+        "code": "399333",
+        "name": "中小板R",
+        "pinyin": "zxbr"
+      },
+      {
+        "market": "sz",
+        "code": "399330",
+        "name": "深证100",
+        "pinyin": "sz100"
+      },
+      {
+        "market": "sz",
+        "code": "399328",
+        "name": "深证治理",
+        "pinyin": "szzl"
+      },
+      {
+        "market": "sz",
+        "code": "399326",
+        "name": "成长40",
+        "pinyin": "cc40"
+      },
+      {
+        "market": "sz",
+        "code": "399324",
+        "name": "深证红利",
+        "pinyin": "szhl"
+      },
+      {
+        "market": "sz",
+        "code": "399322",
+        "name": "国证治理",
+        "pinyin": "gzzl"
+      },
+      {
+        "market": "sz",
+        "code": "399321",
+        "name": "国证红利",
+        "pinyin": "gzhl"
+      },
+      {
+        "market": "sz",
+        "code": "399320",
+        "name": "国证服务",
+        "pinyin": "gzfw"
+      },
+      {
+        "market": "sz",
+        "code": "399319",
+        "name": "资源优势",
+        "pinyin": "zyys"
+      },
+      {
+        "market": "sz",
+        "code": "399318",
+        "name": "国证B指",
+        "pinyin": "gzbz"
+      },
+      {
+        "market": "sz",
+        "code": "399317",
+        "name": "国证A指",
+        "pinyin": "gzaz"
+      },
+      {
+        "market": "sz",
+        "code": "399316",
+        "name": "巨潮小盘",
+        "pinyin": "jcxp"
+      },
+      {
+        "market": "sz",
+        "code": "399315",
+        "name": "巨潮中盘",
+        "pinyin": "jczp"
+      },
+      {
+        "market": "sz",
+        "code": "399314",
+        "name": "巨潮大盘",
+        "pinyin": "jcdp"
+      },
+      {
+        "market": "sz",
+        "code": "399313",
+        "name": "巨潮100",
+        "pinyin": "jc100"
+      },
+      {
+        "market": "sz",
+        "code": "399312",
+        "name": "国证300",
+        "pinyin": "gz300"
+      },
+      {
+        "market": "sz",
+        "code": "399311",
+        "name": "国证1000",
+        "pinyin": "gz1000"
+      },
+      {
+        "market": "sz",
+        "code": "399310",
+        "name": "国证50",
+        "pinyin": "gz50"
+      },
+      {
+        "market": "sz",
+        "code": "399307",
+        "name": "深证转债",
+        "pinyin": "szzz"
+      },
+      {
+        "market": "sz",
+        "code": "399306",
+        "name": "深证ETF",
+        "pinyin": "szetf"
+      },
+      {
+        "market": "sz",
+        "code": "399303",
+        "name": "国证2000",
+        "pinyin": "gz2000"
+      },
+      {
+        "market": "sz",
+        "code": "399302",
+        "name": "深公司债",
+        "pinyin": "sgsz"
+      },
+      {
+        "market": "sz",
+        "code": "399301",
+        "name": "深信用债",
+        "pinyin": "sxyz"
+      },
+      {
+        "market": "sz",
+        "code": "399300",
+        "name": "沪深300",
+        "pinyin": "hs300"
+      },
+      {
+        "market": "sz",
+        "code": "399299",
+        "name": "深信中低",
+        "pinyin": "sxzd"
+      },
+      {
+        "market": "sz",
+        "code": "399298",
+        "name": "深信中高",
+        "pinyin": "sxzg"
+      },
+      {
+        "market": "sz",
+        "code": "399249",
+        "name": "综企指数",
+        "pinyin": "zqzs"
+      },
+      {
+        "market": "sz",
+        "code": "399248",
+        "name": "文化指数",
+        "pinyin": "whzs"
+      },
+      {
+        "market": "sz",
+        "code": "399244",
+        "name": "公共指数",
+        "pinyin": "ggzs"
+      },
+      {
+        "market": "sz",
+        "code": "399243",
+        "name": "科研指数",
+        "pinyin": "kyzs"
+      },
+      {
+        "market": "sz",
+        "code": "399242",
+        "name": "商务指数",
+        "pinyin": "swzs"
+      },
+      {
+        "market": "sz",
+        "code": "399241",
+        "name": "地产指数",
+        "pinyin": "dczs"
+      },
+      {
+        "market": "sz",
+        "code": "399240",
+        "name": "金融指数",
+        "pinyin": "jrzs"
+      },
+      {
+        "market": "sz",
+        "code": "399239",
+        "name": "IT指数",
+        "pinyin": "itzs"
+      },
+      {
+        "market": "sz",
+        "code": "399238",
+        "name": "餐饮指数",
+        "pinyin": "cyzs"
+      },
+      {
+        "market": "sz",
+        "code": "399237",
+        "name": "运输指数",
+        "pinyin": "yszs"
+      },
+      {
+        "market": "sz",
+        "code": "399236",
+        "name": "批零指数",
+        "pinyin": "plzs"
+      },
+      {
+        "market": "sz",
+        "code": "399235",
+        "name": "建筑指数",
+        "pinyin": "jzzs"
+      },
+      {
+        "market": "sz",
+        "code": "399234",
+        "name": "水电指数",
+        "pinyin": "sdzs"
+      },
+      {
+        "market": "sz",
+        "code": "399233",
+        "name": "制造指数",
+        "pinyin": "zzzs"
+      },
+      {
+        "market": "sz",
+        "code": "399232",
+        "name": "采矿指数",
+        "pinyin": "ckzs"
+      },
+      {
+        "market": "sz",
+        "code": "399231",
+        "name": "农林指数",
+        "pinyin": "nlzs"
+      },
+      {
+        "market": "sz",
+        "code": "399108",
+        "name": "深证B指",
+        "pinyin": "szbz"
+      },
+      {
+        "market": "sz",
+        "code": "399107",
+        "name": "深证A指",
+        "pinyin": "szaz"
+      },
+      {
+        "market": "sz",
+        "code": "399106",
+        "name": "深证综指",
+        "pinyin": "szzz"
+      },
+      {
+        "market": "sz",
+        "code": "399103",
+        "name": "乐富指数",
+        "pinyin": "lfzs"
+      },
+      {
+        "market": "sz",
+        "code": "399102",
+        "name": "创业板综",
+        "pinyin": "cybz"
+      },
+      {
+        "market": "sz",
+        "code": "399101",
+        "name": "中小板综",
+        "pinyin": "zxbz"
+      },
+      {
+        "market": "sz",
+        "code": "399100",
+        "name": "新指数",
+        "pinyin": "xzs"
+      },
+      {
+        "market": "sz",
+        "code": "399018",
+        "name": "创业创新",
+        "pinyin": "cycx"
+      },
+      {
+        "market": "sz",
+        "code": "399017",
+        "name": "SME创新",
+        "pinyin": "smecx"
+      },
+      {
+        "market": "sz",
+        "code": "399016",
+        "name": "深证创新",
+        "pinyin": "szcx"
+      },
+      {
+        "market": "sz",
+        "code": "399015",
+        "name": "中小创新",
+        "pinyin": "zxcx"
+      },
+      {
+        "market": "sz",
+        "code": "399013",
+        "name": "深市精选",
+        "pinyin": "ssjx"
+      },
+      {
+        "market": "sz",
+        "code": "399012",
+        "name": "创业300",
+        "pinyin": "cy300"
+      },
+      {
+        "market": "sz",
+        "code": "399011",
+        "name": "深证1000",
+        "pinyin": "sz1000"
+      },
+      {
+        "market": "sz",
+        "code": "399010",
+        "name": "深证700",
+        "pinyin": "sz700"
+      },
+      {
+        "market": "sz",
+        "code": "399009",
+        "name": "深证200",
+        "pinyin": "sz200"
+      },
+      {
+        "market": "sz",
+        "code": "399008",
+        "name": "中小300",
+        "pinyin": "zx300"
+      },
+      {
+        "market": "sz",
+        "code": "399007",
+        "name": "深证300",
+        "pinyin": "sz300"
+      },
+      {
+        "market": "sz",
+        "code": "399006",
+        "name": "创业板指",
+        "pinyin": "cybz"
+      },
+      {
+        "market": "sz",
+        "code": "399005",
+        "name": "中小板指",
+        "pinyin": "zxbz"
+      },
+      {
+        "market": "sz",
+        "code": "399004",
+        "name": "深证100R",
+        "pinyin": "sz100r"
+      },
+      {
+        "market": "sz",
+        "code": "399003",
+        "name": "成份B指",
+        "pinyin": "cfbz"
+      },
+      {
+        "market": "sz",
+        "code": "399002",
+        "name": "深成指R",
+        "pinyin": "sczr"
+      },
+      {
+        "market": "sz",
+        "code": "399001",
+        "name": "深证成指",
+        "pinyin": "szcz"
+      }
+    ] 
+    
+  
+}
