@@ -16,9 +16,7 @@
             </div>
             <div class="input-control">
                 <p class="forget-pwd">
-                    <router-link to="/personal" class="forget-pwd">
-                        忘记密码？
-                    </router-link>
+                    
                 </p>
             </div>
         </div>

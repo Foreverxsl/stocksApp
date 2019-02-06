@@ -240,8 +240,8 @@ Vue.prototype.$echarts = echarts;
             onRefresh() {
                 this.isRefreshing = true;
                 setTimeout(() => {
-                    this.isRefreshing = false;
                     this.getArticleData()
+                    this.isRefreshing = false;
                 }, 2000)
             },
             // 获取所有股票信息

@@ -86,6 +86,7 @@ import {mapGetters,mapActions} from 'vuex'
                 this.email = '';
             },
             register() {
+                console.log(this.phone)
                 if(this.phone.trim()  == '' || this.password.trim()  =='' || this.email.trim()  =='') {
                     MessageBox({
                         title: '提示',

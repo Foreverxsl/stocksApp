@@ -77,7 +77,7 @@ export default {
   }
 }
 </script>
-<style>
+<style lang='scss'>
   #app {
     font-family: Arial, 微软雅黑, "Microsoft yahei", "Hiragino Sans GB", "冬青黑体简体中文 w3", STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif;
     -webkit-font-smoothing: antialiased;
@@ -114,9 +114,26 @@ export default {
   .yd-accordion-head:after{
     height: 0;
   }
+  .mint-cell{
+    min-height: 2.75rem;
+    .mint-radio-input:checked + .mint-radio-core{
+        background-color: red;
+        border-color: red;
+    }
+    .mint-radio-core{
+      &:after{
+        transition: none;
+      }
+
+    }
+    
+    span{
+        font-size: .875rem;
+    }
+  }
   .mint-cell-text{
-    font-size: 14px;
-    margin-left: 4px;
+    font-size: .875rem;
+    margin-left: .25rem;
   }
   .mint-cell-wrapper{
     border-bottom: 1px solid #ececec;

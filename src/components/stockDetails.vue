@@ -186,7 +186,7 @@ export default {
             tit: 'pre' // 默认选择不复权   控制复权的类型
         }
     },
-    mounted: function () {
+    mounted() {
         // 获取基本数据
         this.getbaseData()
         // 日k的数据获取
@@ -207,7 +207,7 @@ export default {
     }, 
     watch: {
         // 监视tab栏切换到分钟的时候 让下方的分钟选择出来  切换到不同的tab栏 调出echart
-        selected: function (val, oldVal) {
+        selected(val, oldVal) {
             if (val === '1' && this.tabCount[0] < 1) {
                 this.tabCount[0]++
             }
@@ -259,7 +259,7 @@ export default {
         }
     },
     methods: {  
-        forTime: function (hour, startMinutes, endMinutes) {
+        forTime(hour, startMinutes, endMinutes) {
             // this.timeArray = [];
             for (var i = startMinutes; i <= endMinutes; i++) {
                 var timeStr = hour + ':' + (i < 10 ? ('0' + i) : i)
@@ -267,7 +267,7 @@ export default {
             }
             // return this.timeArray
         },
-        getUrldata: function () {
+        getUrldata() {
             var url = window.location.href.split('=')
             this.urlCode = url[1].split('&')[0]
             this.title = this.urlName + '(' + this.urlCode.slice(2) + ')'
@@ -284,16 +284,16 @@ export default {
             this.totalDate = '' + year + month + date
         },
         // 点击按钮 下拉的按钮消失
-        showMore: function () {
+        showMore() {
             this.isshow = !this.isshow
         },
         // 点击按钮 上拉的按钮消失
-        hideMore: function () {
+        hideMore() {
             this.isshow = !this.isshow
         },
         // 绑定分钟点击按钮 让下方的分钟选择出来
         // 个股详情基本信息的获取
-        getbaseData: function (callback) {
+        getbaseData(callback) {
             var base = this
             base.getUrldata()
             // console.log(base.tit);
@@ -400,37 +400,9 @@ export default {
                     base.touchVolRatio = changedata.volRatio // 触摸结束还原量比
                     base.baseData = [changedata.nowPrice, changedata.diff_money, changedata.diff_rate, changedata.open, changedata.todayMax, changedata.turnover, changedata.tradeNum, changedata.todayMin, changedata.volRatio,changedata.yestodayClosePrice]
                 })
-            // 监听如果屏幕滑动结束 重新调用请求基本信息的接口
-            document.addEventListener('touchend', function (e) {
-                // base.getbaseData();
-                // 如果触摸的目标是canvas对象 那么则重置基本信息数据
-                // console.log(e.target.tagName == "CANVAS");
-                /*if (e.target.tagName === 'CANVAS') {
-                    // base.getbaseData();
-                    // 把最近的记录的数据重新还原到页面中
-                    // console.log([base.touchPrice,base.touchOpen,base.touchHigh,base.touchLow]);
-                    Vue.set(base.baseData, 0, base.touchPrice)
-                    Vue.set(base.baseData, 3, base.touchOpen)
-                    Vue.set(base.baseData, 4, base.touchHigh)
-                    Vue.set(base.baseData, 7, base.touchLow)
-                    Vue.set(base.baseData, 2, base.touchRise)
-                    Vue.set(base.baseData, 1, base.touchrisePrice)
-                    Vue.set(base.baseData, 5, base.touchTurnover)
-                    Vue.set(base.baseData, 6, base.touchAmt)
-                    Vue.set(base.baseData, 8, base.touchVolRatio)
-                    base.flag = false
-                }*/
-            })
-            // 监听如果屏幕滑动过程中  那么让基本信息的推送结束掉
-            document.addEventListener('touchmove', function (e) {
-                // console.log(e.target.tagName == "CANVAS");
-                if (e.target.tagName === 'CANVAS') {
-                    base.flag = true
-                }
-            })
         },
         // 日k图数据
-        getdaykData: function (tit,callback) {
+        getdaykData(tit,callback) {
             var weekk = this
             // console.log(tit);
             weekk.getUrldata()
@@ -521,7 +493,7 @@ export default {
                 })
         },
         // 周k图数据
-        getWeekkdata: function (tit,callback) {
+        getWeekkdata(tit,callback) {
             var weekk = this
             weekk.getUrldata()
             weekk.weekkdata = []
@@ -617,7 +589,7 @@ export default {
                 })
         },
         // 月k图数据
-        getmonthkData: function (tit,callback) {
+        getmonthkData(tit,callback) {
             var weekk = this
             weekk.getUrldata()
             weekk.monthkData = []
@@ -717,7 +689,7 @@ export default {
                 })
         },
         // 分时图数据
-        getShare: function (callback) {
+        getShare(callback) {
             var gi = this
             gi.getUrldata()
             gi.giTime = []
@@ -792,7 +764,7 @@ export default {
                 })
         },
         // echart 分时图的制作
-        drawEchartShare: function (time, price, max, min, preClose, ma, vol, rise, maxFloat, minFloat, risePrice) {
+        drawEchartShare(time, price, max, min, preClose, ma, vol, rise, maxFloat, minFloat, risePrice) {
             if (this.typeIndex === true) {
                 this.width = document.body.clientWidth
                 // console.log(this.width);
@@ -1207,7 +1179,7 @@ export default {
             }
         },
         // echarts 日k图的制作
-        drawEchartsdayk: function () {
+        drawEchartsdayk() {
             if (this.mychartDay != null && this.mychartDay != "" && this.mychartDay != undefined) {
                     this.mychartDay.dispose()
             }
@@ -1508,7 +1480,7 @@ export default {
             }
         },
         // echarts 周k图的制作
-        drawEchartsweekk: function () {
+        drawEchartsweekk() {
             if (this.mychartWeek != null && this.mychartWeek != "" && this.mychartWeek != undefined) {
                     this.mychartWeek.dispose()
             }
@@ -1806,7 +1778,7 @@ export default {
             }
         },
         // echarts 月k图的制作
-        drawEchartsmonthk: function () {
+        drawEchartsmonthk() {
             if (this.mychartMonth != null && this.mychartMonth != "" && this.mychartMonth != undefined) {
                     this.mychartMonth.dispose()
             }
@@ -2116,7 +2088,7 @@ export default {
                 myChartweekk.resize()
             }
         },
-        cutDown: function () { // 判断添加自选股还是删除自选股
+        cutDown() { // 判断添加自选股还是删除自选股
             // console.log("详情页的股票代码", this.urlCode);
             // console.log(this.selfStock);
             if (this.selfStock) {
@@ -2128,7 +2100,7 @@ export default {
                 }
             }
         },
-        addStock: function () { // 添加自选股
+        addStock() { // 添加自选股
             var addStock = {}
             addStock.stkcode = this.urlCode
             addStock.type = true
@@ -2144,7 +2116,7 @@ export default {
                 duration: 1000
             })
         },
-        deleteStock: function () { // 删除自选股
+        deleteStock() { // 删除自选股
             for (var i = 0; i < this.selfStock.length; i++) {
                 if (this.selfStock[i].stkcode === this.urlCode) {
                     this.selfStock.splice(i, 1)
@@ -2159,7 +2131,7 @@ export default {
                 duration: 1000
             })
         },
-        toDetail: function (urlCode, name) {
+        toDetail(urlCode, name) {
             this.$router.push({
                 path: '/particularsMore/stkCode=' + urlCode + '&stkName=' + name
             })
@@ -2203,7 +2175,6 @@ export default {
 /*基本信息展示*/
 .stocksDetails {
     padding-top: 2.5rem;
-    padding-bottom: 2.5rem;
 }
 .stocksDetails .message {
     height: 4.6875rem;

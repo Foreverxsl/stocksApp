@@ -48,12 +48,7 @@ import axios from 'axios'
             this.getNewsDetail()
         },
         computed: {
-            // havePic() {
-            //     if(this.pic) {
-            //         return true
-            //     }
-            //     return false
-            // }
+            
         },
         methods: {
             getNewsDetail() {
@@ -81,13 +76,6 @@ import axios from 'axios'
                         this.newTime = data.time
                         this.newTitle = data.title
                         this.newContent = data.html
-                        // if(data.img_list.length == 1) {
-                        //     this.pic = data.img_list[0].url
-                        // } else if(data.img_list.length > 1) {
-                        //     this.pic = data.img_list[1].url
-                        // } else {
-                        //     this.pic = ''
-                        // }
                     })        
             }
         },

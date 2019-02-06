@@ -34,7 +34,10 @@ export default new Router({
         }, {
             path: '/stockDetails/:id',
             name: 'stockDetails',
-            component: stockDetails
+            component: stockDetails, 
+            meta: {
+                //keepAlive: true
+            },
         }, {
             path: '/myStocks',
             name: 'stock',
@@ -69,7 +72,7 @@ export default new Router({
         },{
             path: '/stockNewDetail/:id',
             name: 'stockNewDetail',
-            component: stockNewDetail
+            component: stockNewDetail,
         },{
             path: '/personal',
             name: 'myCenter',

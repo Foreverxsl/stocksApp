@@ -1,6 +1,7 @@
 var express = require('express');
 var router = express.Router();
 var settingDB = require('../db/settingDB');
+var suggestionDB = require('../db/suggestionDB')
 /* GET users listing. */
 router.get('/', function(req, res, next) {
   var name = req.query.telphone
@@ -23,5 +24,17 @@ router.post('/update', function(req, res, next) {
   })
   
 });
+
+router.post('/suggestion',function(req,res) {
+  var title = req.body.title
+  var desc = req.body.desc
+  var telphone = req.body.telphone
+  suggestionDB.insert_suggestion(title,desc,telphone).then(data=>{
+    res.send('ok')
+  }).catch(e=>{
+    console.log(e)
+  })
+
+})
 
 module.exports = router;

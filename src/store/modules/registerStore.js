@@ -13,7 +13,7 @@ export default {
     },
     mutations: {
         getStatus(state,data) {
-            //console.log(data)
+            console.log(data)
             state.status = data
         }
     },
